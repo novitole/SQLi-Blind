@@ -1,1 +1,1 @@
-# SQLi-Blind
+# Structured Query Language injection - Blinded
